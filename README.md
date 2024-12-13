@@ -1,23 +1,21 @@
-# Omar Pintado | Ingeniero Industrial y de Sistemas | Full Stack Developer
+# Omar Pintado
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=2500&pause=1000&width=435&lines=Industrial+and+Systems+Engineer;Full+Stack+Developer)](https://git.io/typing-svg)
 
-Soy **Ingeniero Industrial y de Sistemas** con un fuerte enfoque en el desarrollo **Full Stack** y la implementación de soluciones en la **nube con AWS**. Mi experiencia abarca desde el desarrollo de aplicaciones web modernas hasta la creación de arquitecturas escalables utilizando **Docker**, **AWS**, **React**, **Angular**, **Node.js** (Express, NestJS) y bases de datos SQL y NoSQL. Además, tengo experiencia trabajando con **metodologías ágiles** como **SCRUM** y **OKR**.
+I am an **Industrial and Systems Engineer** with a strong focus on **Full Stack development** and implementing **cloud solutions with AWS**. My experience ranges from developing modern web applications to building scalable architectures using **Docker**, **AWS**, **React**, **Angular**, **Node.js** (Express, NestJS), and SQL/NoSQL databases. I also have experience working with **agile methodologies** like **SCRUM** and **OKR**.
 
-## Tecnologías y Habilidades
+## Skills
+- 👨‍💻 **Frontend**: React, Angular, HTML5, CSS3, JavaScript
+- ⚙️ **Backend**: Node.js, Express, NestJS
+- 💾 **Databases**: MySQL, PostgreSQL, MongoDB
+- ☁️ **Cloud**: AWS (EC2, S3, DynamoDB, etc.)
+- 🐳 **Containers**: Docker
+- 🧑‍💻 **Version Control**: Git, GitHub 
+- 🧠 **Methodologies**: SCRUM ️, OKR
+- 🌍 **Languages**: Spanish (Native), English (B1+)
 
-- **Frontend**: React, Angular, HTML, CSS, JavaScript
-- **Backend**: Node.js, Express, NestJS
-- **Bases de Datos**: SQL (MySQL, PostgreSQL), NoSQL (MongoDB)
-- **Nube**: AWS (EC2, S3, DynamoDB, etc.)
-- **Contenedores**: Docker
-- **Metodologías Ágiles**: SCRUM, OKR
-- **Control de Versiones**: Git, GitHub
+## Contact Me
 
-## Enfoque de Desarrollo
+- 📧 **Email**: [gabrielomar11_14@hotmail.com](mailto:gabrielomar11_14@hotmail.com)
+- 🌐 **LinkedIn**: [Gabriel Omar Pintado Salcedo](https://www.linkedin.com/in/omarpintado/)
 
-Me apasiona el desarrollo de aplicaciones modernas, escalables y eficientes. Siempre que sea posible, aprovecho las herramientas de **contenedorización** como **Docker** y las soluciones **serverless** en **AWS** para mejorar la escalabilidad, seguridad y mantener una arquitectura flexible. Me enfoco en crear soluciones completas que van desde el frontend hasta el backend, utilizando las mejores prácticas y tecnologías actuales.
-
-## Cómo Contactarme
-
-- **Email**: [gabrielomar11_14@hotmail.com](mailto:gabrielomar11_14@hotmail.com)
-- **LinkedIn**: [Gabriel Omar Pintado Salcedo](https://www.linkedin.com/in/omarpintado/)
 
